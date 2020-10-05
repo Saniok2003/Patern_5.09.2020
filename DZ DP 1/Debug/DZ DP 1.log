@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Hp\source\repos\DZ DP 1\DZ DP 1\Source.cpp(41,15): error C2555: Mini_Auto_technology::Body_assembly: возвращаемый тип перегруженной виртуальной функции отличается от "TechnologyModels::Body_assembly" и не является ковариантным
+C:\Users\Hp\source\repos\DZ DP 1\DZ DP 1\Source.cpp(26): message : см. объявление "TechnologyModels::Body_assembly"
